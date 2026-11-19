@@ -22,7 +22,7 @@ profiles/
 *.sqlite3
 
 # Reports and logs
-reports/
+reports/tournament_scan.xlsx
 logs/
 *.log
 
