@@ -11,11 +11,11 @@ __pycache__/
 *.py[cod]
 
 # Browser sessions
+browser-profile/
 browser_profile/
 playwright_profile/
 user_data/
 profiles/
-
 # Databases
 *.db
 *.sqlite
